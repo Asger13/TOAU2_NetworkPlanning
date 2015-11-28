@@ -1,0 +1,50 @@
+﻿<Window x:Class="TOAU1_Simplecs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TOAU1_Simplecs"
+        mc:Ignorable="d"
+        Title="GoodSimpleX" Height="485.764" Width="324.411" WindowStartupLocation="CenterScreen">
+   <Grid>
+      <Grid.RowDefinitions>
+         <RowDefinition Height="auto"></RowDefinition>
+         <RowDefinition></RowDefinition>
+      </Grid.RowDefinitions>
+      <Menu>
+         <MenuItem Header="Файл">
+            <MenuItem Header="Новое решение" Click="MenuItem_Click_1"></MenuItem>
+            <MenuItem x:Name="Save" Header="Сохранить решение" Click="Save_Click"></MenuItem>
+            <MenuItem Header="Загрузить решение" Click="MenuItem_Click_3"></MenuItem>
+            <Separator></Separator>
+            <MenuItem Header="Выход" Click="MenuItem_Click"></MenuItem>
+         </MenuItem>
+         <MenuItem x:Name="Summ" Header="Расчет">
+            <MenuItem Header="Максимальную прибыль" Click="MenuItem_Click_4"></MenuItem>
+            <MenuItem Header="Минимальные издержки" Click="MenuItem_Click_2"></MenuItem>
+            <Separator></Separator>
+            <MenuItem x:Name="Rep" Header="Отчет" Click="MenuItem_Click_5"></MenuItem>
+         </MenuItem>
+          
+      </Menu>
+      <Label x:Name="label" Content="Продукция" HorizontalAlignment="Left" Margin="107,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.132,0.387" FontSize="21.333"/>
+      <Label x:Name="label1" Content="ID" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" FontSize="18.667"/>
+      <Label x:Name="label2" Content="Ограничние" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" FontSize="18.667"/>
+      <Label x:Name="label3" Content="Цена" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" FontSize="18.667"/>
+      <Label x:Name="label4" Content="Компоненты" HorizontalAlignment="Left" Margin="10,153,0,0" VerticalAlignment="Top" FontSize="18.667"/>
+      <TextBox x:Name="textBoxID" HorizontalAlignment="Left" Height="23" Margin="139,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" FontSize="16" IsReadOnly="True"/>
+      <TextBox x:Name="textBoxLimit" HorizontalAlignment="Left" Height="23" Margin="139,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" FontSize="16"/>
+      <TextBox x:Name="textBoxPrice" HorizontalAlignment="Left" Height="23" Margin="139,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" FontSize="16"/>
+      <StackPanel x:Name="spLimitComponents" HorizontalAlignment="Left" Margin="19,188,0,0" Width="278" Height="210" VerticalAlignment="Top">
+         <Grid Height="30">
+            <Label x:Name="label5" Content="Компонент" Margin="0,0,195,0"/>
+            <Label x:Name="label6" Content="Ограничение" Margin="83,0,98,0"/>
+            <Label x:Name="label7" Content="Колличество" Margin="180,0,0,0"/>
+         </Grid>
+      </StackPanel>
+      <Button x:Name="buttonLeft" Content="&lt;" HorizontalAlignment="Left" Margin="10,0,0,10" Width="69" Height="37" VerticalAlignment="Bottom" Grid.Row="1" FontSize="21.333" Click="buttonLeft_Click"/>
+      <Button x:Name="buttonAdd" Content="+" HorizontalAlignment="Left" Margin="84,0,0,10" Width="88" Height="37" VerticalAlignment="Bottom" Click="buttonAdd_Click" Grid.Row="1" FontSize="24"/>
+      <Button x:Name="buttonDel" Content="X" HorizontalAlignment="Left" Margin="177,0,0,10" Width="50" Height="37" VerticalAlignment="Bottom" Grid.Row="1" FontSize="16" Click="buttonDel_Click"/>
+      <Button x:Name="buttonRight" Content="&gt;" HorizontalAlignment="Left" Margin="232,0,0,10" Width="69" Height="37" VerticalAlignment="Bottom" Grid.Row="1" FontSize="21.333" Click="buttonRight_Click"/>
+   </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="TOAU1_Simplecs.Result"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TOAU1_Simplecs"
+        mc:Ignorable="d"
+        Title="Максимальная прибыль" Height="396" Width="352">
+   <Grid>
+      <Label x:Name="labelMaxIncome" Content="Максимальная прибыль = " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+      <StackPanel x:Name="spResult" Margin="10,41,10,10">
+         <Label x:Name="label" Content="Продукт                            Количество"/>
+         
+      </StackPanel>
+
+   </Grid>
+</Window>
