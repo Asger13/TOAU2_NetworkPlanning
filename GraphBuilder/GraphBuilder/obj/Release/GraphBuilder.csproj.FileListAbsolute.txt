@@ -1,0 +1,15 @@
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Release\GraphBuilder.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Release\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Release\GraphBuilder.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_currentPath.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_hierarchy.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_incendentnost.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_main.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_selection.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_smegnost.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Form_weight.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.Properties.Resources.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Release\GraphBuilder.pdb

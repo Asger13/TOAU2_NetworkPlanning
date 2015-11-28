@@ -1,0 +1,101 @@
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.pdb
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csprojResolveAssemblyReference.cache
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.g.cs
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\App.g.cs
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.cache
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.lref
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.baml
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.g.resources
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.Properties.Resources.resources
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csproj.GenerateResource.Cache
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+c:\users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.g.cs
+C:\Users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.baml
+C:\Users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Menu.g.cs
+C:\Users\as48r\documents\visual studio 2015\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Menu.baml
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csprojResolveAssemblyReference.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\App.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.lref
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.baml
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.baml
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.g.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.Properties.Resources.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.baml
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.g.cs
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.g.cs
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.g.cs
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\App.g.cs
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.cache
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.lref
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.pdb
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.baml
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.baml
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.baml
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.g.resources
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.Properties.Resources.resources
+C:\Users\Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csproj.GenerateResource.Cache
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.pdb
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csprojResolveAssemblyReference.cache
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.g.cs
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.g.cs
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.g.cs
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\App.g.cs
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.cache
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.lref
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.baml
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.baml
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.baml
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.g.resources
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.Properties.Resources.resources
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csproj.GenerateResource.Cache
+C:\Users\Zoan Anh\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\DocX.dll
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\DocX.dll
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csprojResolveAssemblyReference.cache
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.g.cs
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.g.cs
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.g.cs
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\App.g.cs
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.cache
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs_MarkupCompile.lref
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\MainWindow.baml
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\Result.baml
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TableComponents.baml
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.g.resources
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.Properties.Resources.resources
+C:\Users\as48r\Desktop\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs (1)\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs (1)\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs (1)\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\DocX.dll
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU1_Simplecs\TOAU1_Simplecs\bin\Debug\TOAU1_Simplecs.exe.config
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.exe
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU1_Simplecs\TOAU1_Simplecs\obj\Debug\TOAU1_Simplecs.pdb

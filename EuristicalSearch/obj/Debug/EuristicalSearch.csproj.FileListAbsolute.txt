@@ -1,0 +1,16 @@
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\EuristicalSearch.dll
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\EuristicalSearch.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\TOAU2_NetworkPlanning.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.csprojResolveAssemblyReference.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.dll
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\Serialize.dll
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\EuristicalSearch.dll
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\EuristicalSearch.pdb
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\TOAU2_NetworkPlanning.exe
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\Serialize.dll
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\bin\Debug\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.csprojResolveAssemblyReference.cache
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.dll
+C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\EuristicalSearch\obj\Debug\EuristicalSearch.pdb

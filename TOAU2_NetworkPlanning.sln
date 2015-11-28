@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOAU2_NetworkPlanning", "TOAU2_NetworkPlanning\TOAU2_NetworkPlanning.csproj", "{0B4F6AE7-84D0-4954-B339-7E84D4202CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphBuilder", "GraphBuilder\GraphBuilder\GraphBuilder.csproj", "{776A7C09-B787-46C0-A12B-4A07102A0ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuristicalSearch", "EuristicalSearch\EuristicalSearch.csproj", "{5A66305B-BE57-4E0C-A881-DFCB1BA42C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOAU1_Simplecs", "TOAU1_Simplecs\TOAU1_Simplecs\TOAU1_Simplecs.csproj", "{3DA92F91-3844-4FC4-B926-B34CC16F3772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4F6AE7-84D0-4954-B339-7E84D4202CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4F6AE7-84D0-4954-B339-7E84D4202CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4F6AE7-84D0-4954-B339-7E84D4202CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4F6AE7-84D0-4954-B339-7E84D4202CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776A7C09-B787-46C0-A12B-4A07102A0ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776A7C09-B787-46C0-A12B-4A07102A0ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776A7C09-B787-46C0-A12B-4A07102A0ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776A7C09-B787-46C0-A12B-4A07102A0ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A66305B-BE57-4E0C-A881-DFCB1BA42C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A66305B-BE57-4E0C-A881-DFCB1BA42C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A66305B-BE57-4E0C-A881-DFCB1BA42C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A66305B-BE57-4E0C-A881-DFCB1BA42C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,124 @@
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+c:\users\алексей\documents\visual studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\qwerty\Documents\Visual Studio 2013\Projects\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\MELNIKOV\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2013\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_weight.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+D:\FILES\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_weight.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+W:\Alex\ЛГТУ\Projects\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_weight.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\as48r\ЛГТУ\Projects\!Svalka\Системный Анализ\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_weight.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe.config
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.exe
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.pdb
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.exe
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\bin\Debug\GraphBuilder.pdb
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_currentPath.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_hierarchy.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_incendentnost.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_main.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_selection.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_smegnost.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Form_weight.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.Properties.Resources.resources
+C:\Users\Zoan Anh\Desktop\TOAU2_NetworkPlanning\GraphBuilder\GraphBuilder\obj\Debug\GraphBuilder.csproj.GenerateResource.Cache

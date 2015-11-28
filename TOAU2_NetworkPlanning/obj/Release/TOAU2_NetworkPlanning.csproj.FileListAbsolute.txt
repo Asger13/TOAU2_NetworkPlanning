@@ -1,0 +1,14 @@
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Release\TOAU2_NetworkPlanning.exe.config
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Release\TOAU2_NetworkPlanning.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Release\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\MainWindow.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\App.g.cs
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning_MarkupCompile.cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning_MarkupCompile.lref
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\MainWindow.baml
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.g.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.Properties.Resources.resources
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.csproj.GenerateResource.Cache
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.exe
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\ЛГТУ\Projects\TOAU\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Release\TOAU2_NetworkPlanning.csprojResolveAssemblyReference.cache
