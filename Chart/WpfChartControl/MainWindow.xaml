@@ -1,0 +1,32 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit" 
+    xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+    x:Class="WpfChartControl.MainWindow"  ScrollViewer.VerticalScrollBarVisibility="Auto"
+   ScrollViewer.CanContentScroll="True"
+        Title="MainWindow" Height="800" Width="1250">
+    <ScrollViewer HorizontalScrollBarVisibility="Auto" 
+      VerticalScrollBarVisibility="Auto" Margin="0,-28,0,28">
+        <Grid>
+            <Grid Height="921">
+                <chartingToolkit:Chart  Name="LineChart1"
+                                        Title="График"
+                                        Margin="26,42,127,324">
+
+                    <chartingToolkit:LineSeries Name="line1"  DependentValuePath="Value"
+                                                 IndependentValuePath="Key"
+                                                 ItemsSource="{Binding [0]}"
+                                                 IsSelectionEnabled="True" Title="График1" 
+                                                 />
+                    <chartingToolkit:LineSeries Name="line2" DependentValuePath="Value"
+                                                IndependentValuePath="Key"
+                                                ItemsSource="{Binding [1]}"
+                                                IsSelectionEnabled="True" Title="График 2"
+                                                />
+                </chartingToolkit:Chart>
+
+            </Grid>
+        </Grid>
+    </ScrollViewer>
+</Window>

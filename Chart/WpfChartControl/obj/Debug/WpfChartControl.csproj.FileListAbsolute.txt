@@ -1,0 +1,64 @@
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\WpfChartControl.exe.config
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\WpfChartControl.exe
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\WpfChartControl.pdb
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\wpftoolkit.dll
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\bin\Debug\wpftoolkit.pdb
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.csprojResolveAssemblyReference.cache
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\MainWindow.baml
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\MainWindow.g.cs
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\App.g.cs
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl_MarkupCompile.cache
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.g.resources
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.Properties.Resources.resources
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.csproj.GenerateResource.Cache
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.exe
+c:\users\musakkhir\documents\visual studio 2012\Projects\WpfChartControl\WpfChartControl\obj\Debug\WpfChartControl.pdb
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\bin\Debug\WpfChartControl.exe.config
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.exe
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.pdb
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\bin\Debug\WpfChartControl.exe
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\bin\Debug\WpfChartControl.pdb
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\bin\Debug\wpftoolkit.pdb
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.csprojResolveAssemblyReference.cache
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\MainWindow.baml
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\MainWindow.g.cs
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\App.g.cs
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl_MarkupCompile.cache
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.g.resources
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.Properties.Resources.resources
+C:\Users\Asger\Desktop\fkfkfkf\C#\WpfChartControl\obj\Debug\WpfChartControl.csproj.GenerateResource.Cache
+C:\Users\Asger\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.exe.config
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.exe
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.pdb
+C:\Users\Asger\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.exe
+C:\Users\Asger\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.pdb
+C:\Users\Asger\Desktop\C#\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\Asger\Desktop\C#\WpfChartControl\bin\Debug\wpftoolkit.pdb
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.csprojResolveAssemblyReference.cache
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\MainWindow.baml
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\MainWindow.g.cs
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\App.g.cs
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl_MarkupCompile.cache
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.g.resources
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.Properties.Resources.resources
+C:\Users\Asger\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.csproj.GenerateResource.Cache
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.exe.config
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.exe
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.pdb
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.exe
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\WpfChartControl.pdb
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.dll
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\wpftoolkit.dll
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\system.windows.controls.datavisualization.toolkit.pdb
+C:\Users\as48r\Desktop\C#\WpfChartControl\bin\Debug\wpftoolkit.pdb
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.csprojResolveAssemblyReference.cache
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\MainWindow.baml
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\MainWindow.g.cs
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\App.g.cs
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl_MarkupCompile.cache
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.g.resources
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.Properties.Resources.resources
+C:\Users\as48r\Desktop\C#\WpfChartControl\obj\Debug\WpfChartControl.csproj.GenerateResource.Cache
