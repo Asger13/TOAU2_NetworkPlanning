@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuristicalSearch", "Euristi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOAU1_Simplecs", "TOAU1_Simplecs\TOAU1_Simplecs\TOAU1_Simplecs.csproj", "{3DA92F91-3844-4FC4-B926-B34CC16F3772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfChartControl", "..\..\..\Desktop\Chart\WpfChartControl\WpfChartControl.csproj", "{D228E5E3-0A98-4B8C-9A7D-516C3A76835B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DA92F91-3844-4FC4-B926-B34CC16F3772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D228E5E3-0A98-4B8C-9A7D-516C3A76835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D228E5E3-0A98-4B8C-9A7D-516C3A76835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D228E5E3-0A98-4B8C-9A7D-516C3A76835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D228E5E3-0A98-4B8C-9A7D-516C3A76835B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
