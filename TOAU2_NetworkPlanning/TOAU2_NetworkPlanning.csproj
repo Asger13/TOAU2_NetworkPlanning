@@ -133,6 +133,12 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Desktop\Chart\WpfChartControl\WpfChartControl.csproj">
+      <Project>{d228e5e3-0a98-4b8c-9a7d-516c3a76835b}</Project>
+      <Name>WpfChartControl</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

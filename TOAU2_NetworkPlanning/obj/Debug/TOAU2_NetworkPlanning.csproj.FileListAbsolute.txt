@@ -44,3 +44,14 @@ C:\Users\as48r\Desktop\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOA
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\TOAU2_NetworkPlanning.exe.config
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.exe
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\TOAU2_NetworkPlanning.exe
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\TOAU2_NetworkPlanning.pdb
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.csprojResolveAssemblyReference.cache
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\MainWindow.g.cs
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\App.g.cs
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning_MarkupCompile.cache
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning_MarkupCompile.lref
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\MainWindow.baml
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.g.resources
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.Properties.Resources.resources
+C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.csproj.GenerateResource.Cache
