@@ -55,9 +55,3 @@ C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.g.resources
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.Properties.Resources.resources
 C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\obj\Debug\TOAU2_NetworkPlanning.csproj.GenerateResource.Cache
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\WpfChartControl.exe
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\WPFToolkit.dll
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\WpfChartControl.pdb
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
-C:\Users\as48r\Documents\GitHub\TOAU2_NetworkPlanning\TOAU2_NetworkPlanning\bin\Debug\WPFToolkit.pdb

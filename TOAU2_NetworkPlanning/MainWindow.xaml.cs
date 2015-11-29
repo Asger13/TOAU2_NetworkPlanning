@@ -18,7 +18,6 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.IO;
-using WpfChartControl;
 
 namespace TOAU2_NetworkPlanning
 {
@@ -35,27 +34,57 @@ namespace TOAU2_NetworkPlanning
 		char _nameLink = 'A';
 		int _numNode = 0;
 		List<Ellipse> _ellipses;
-		List<LineArrow> _lines;
+		List<Line> _lines;
       List<TextBlock> _ltxb;
       List<TextBlock> _ltxb1;
 		Node _nodeStart;       
       int elipcount=1;
+		double _sizeLine = 3;
+
 		public MainWindow()
 		{
 			InitializeComponent();
-            _ltxb1 = new List<TextBlock>();
-            _ltxb = new List<TextBlock>();
+         _ltxb1 = new List<TextBlock>();
+         _ltxb = new List<TextBlock>();
 			_links = new List<Link>();
 			_nodes = new List<Node>();
 			_ellipses = new List<Ellipse>();
-			_lines = new List<LineArrow>();
+			_lines = new List<Line>();
 			isSkpadSesurce.IsChecked = true;
       }
 
 		private void Everistic_Click(object sender, RoutedEventArgs e)
 		{
-			ChartRes chart = new ChartRes();
-			chart.Show();
+			int numWork = 0;
+			foreach(var grid in spWorks.Children)
+			{
+				if(grid is Grid)
+				{
+					TextBox textbox1 = null;
+					TextBox textbox2 = null;
+
+					bool isFiertsTextBox = true;
+					foreach(var textbox in ((Grid)grid).Children)
+					{
+						if(textbox is TextBox)
+						{
+							TextBox textboxN = (TextBox)textbox;
+							if(isFiertsTextBox)
+							{
+								textbox1 = textboxN;
+								isFiertsTextBox = !isFiertsTextBox;
+							}
+							textbox2 = textboxN;
+						}
+					}
+					_links[numWork].CountResurses = double.Parse(textbox2.Text);
+					_links[numWork].CountTime = double.Parse(textbox1.Text);
+					numWork++;
+				}
+			}
+
+			//ChartRes chart = new ChartRes();
+			//chart.Show();
 		}
 
 		private void Comby_Click(object sender, RoutedEventArgs e)
@@ -102,7 +131,9 @@ namespace TOAU2_NetworkPlanning
 			if(Mouse.LeftButton == MouseButtonState.Pressed)
 			{
 				Point newPoint = new Point(Mouse.GetPosition(canvas).X, Mouse.GetPosition(canvas).Y);
-				_lines[_lines.Count - 1].SetPointLine(newPoint);
+				//_lines[_lines.Count - 1].SetPointLine(newPoint);
+				_lines[_lines.Count - 1].X2 = newPoint.X;
+				_lines[_lines.Count - 1].Y2 = newPoint.Y;
 				RefreshCanvas();
 			}
 	}
@@ -116,7 +147,7 @@ namespace TOAU2_NetworkPlanning
 			{
 					if(Belongs(_pointMouseStart, 1))
 					{
-						_lines.Add(new LineArrow(_pointMouseStart, _pointMouseStart));
+						_lines.Add(CreateLine(_pointMouseStart, _pointMouseStart));
 						RefreshCanvas();
 					}
 			}
@@ -126,7 +157,7 @@ namespace TOAU2_NetworkPlanning
 				_nodes.Add(_nodeStart);
 
 				_ellipses.Add(CreateElips(_pointMouseStart));
-				_lines.Add(new LineArrow(_pointMouseStart, _pointMouseStart));
+				_lines.Add(CreateLine(_pointMouseStart, _pointMouseStart));
 
                 if (elipcount == 1)
                 {
@@ -149,8 +180,8 @@ namespace TOAU2_NetworkPlanning
 
 			if(Belongs(_pointMouseFinish, 2))
 			{
-				_lines[_lines.Count - 1].SetPointLine(Belongs(_pointMouseFinish).Point);
-
+				_lines[_lines.Count - 1].X2 = Belongs(_pointMouseFinish).Point.X;
+				_lines[_lines.Count - 1].Y2 = Belongs(_pointMouseFinish).Point.Y;
 			}
 			else
 			{
@@ -238,7 +269,19 @@ namespace TOAU2_NetworkPlanning
             
       }
 
-		
+		private Line CreateLine(Point pointStart, Point pointFinish)
+		{
+			Line myLine = new Line();
+			myLine.Stroke = Brushes.LightSteelBlue;
+			myLine.X1 = pointStart.X;
+			myLine.Y1 = pointStart.Y;
+			myLine.X2 = pointFinish.X;
+			myLine.Y2 = pointFinish.Y;
+			myLine.StrokeThickness = _sizeLine;
+
+			return myLine;
+		}
+
 
 
 		public void RefreshCanvas()
@@ -247,9 +290,9 @@ namespace TOAU2_NetworkPlanning
 
 			foreach(var line in _lines)
 			{
-				canvas.Children.Add(line._lineMain);
-				canvas.Children.Add(line._lineLeftArrow);
-				canvas.Children.Add(line._lineRightArrow);
+				canvas.Children.Add(line);
+				//canvas.Children.Add(line._lineLeftArrow);
+				//canvas.Children.Add(line._lineRightArrow);
          }
          foreach (Ellipse ellipse in _ellipses)
             canvas.Children.Add(ellipse);               

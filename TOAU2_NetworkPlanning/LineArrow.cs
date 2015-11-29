@@ -23,20 +23,20 @@ namespace TOAU2_NetworkPlanning
 		public LineArrow(Point pointStart, Point pointFinish)
 		{
 			_pointStart = pointStart;
-			GetArrow(pointStart, pointFinish);
+			//GetArrow(pointStart, pointFinish);
 			_lineMain = CreateLine(pointStart, pointFinish);
-			_lineLeftArrow = CreateLine(TargetArrow.center, TargetArrow.left);
-			_lineRightArrow = CreateLine(TargetArrow.center, TargetArrow.right);
+			//_lineLeftArrow = CreateLine(TargetArrow.center, TargetArrow.left);
+			//_lineRightArrow = CreateLine(TargetArrow.center, TargetArrow.right);
 
 		}
 
 		public void SetPointLine(Point point)
 		{
 
-			GetArrow(_pointStart, point);
+			//GetArrow(_pointStart, point);
 			_lineMain = CreateLine(_pointStart, point);
-			_lineLeftArrow = CreateLine(TargetArrow.center, TargetArrow.left);
-			_lineRightArrow = CreateLine(TargetArrow.center, TargetArrow.right);
+			//_lineLeftArrow = CreateLine(TargetArrow.center, TargetArrow.left);
+			//_lineRightArrow = CreateLine(TargetArrow.center, TargetArrow.right);
 		}
 
 		private Line CreateLine(Point pointStart, Point pointFinish)
