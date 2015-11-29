@@ -18,6 +18,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.IO;
+using WpfChartControl;
 
 namespace TOAU2_NetworkPlanning
 {
@@ -53,7 +54,8 @@ namespace TOAU2_NetworkPlanning
 
 		private void Everistic_Click(object sender, RoutedEventArgs e)
 		{
-
+			ChartRes chart = new ChartRes();
+			chart.Show();
 		}
 
 		private void Comby_Click(object sender, RoutedEventArgs e)
